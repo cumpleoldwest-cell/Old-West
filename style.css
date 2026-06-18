@@ -555,7 +555,7 @@ footer{
     background-size:cover;
 
     /* mueve la imagen hacia abajo */
-    background-position:center 100px;
+    background-position:center 10px;
 
     max-width:450px;
 
